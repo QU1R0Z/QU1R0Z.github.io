@@ -44,12 +44,11 @@ h1, h2{
 
 
 .contenido-simple {
-    width: 800px; 
-    margin: 0 auto;
-    text-align: left;
+    text-align: center;
 }
 
 
 .usos-clave {
     background-color: #fff; 
+
 }
