@@ -8,7 +8,7 @@ body {
     text-align: center;
 }
 body{
-    background-image: url(./410AFKA.png);
+    background-image: url(./Gemini_Generated_Image_h6miyrh6miyrh6mi.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -21,13 +21,14 @@ body{
 }
 
 h1, h2{
-    color: #000000; 
+    color: #ffffff; 
 }
 
 
 .header-simple h1 {
     font-size: 3em;
     margin-bottom: 5px;
+    color: #ffffff;
 }
 
 .boton-simple {
@@ -59,7 +60,7 @@ h1, h2{
     width: 800px; 
     margin: 0 auto;
     text-align: left;
-    color:  black;
+    color:  white;
 }
 
 
