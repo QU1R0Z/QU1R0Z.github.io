@@ -35,9 +35,9 @@ h1, h2{
     display: inline-block;
     background-color: #000000;
     color: white;
-    padding: 12px 30px;
+    padding: 20px 30px;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 20px;
     font-weight: bold;
 }
 
@@ -67,3 +67,4 @@ h1, h2{
 .usos-clave {
     background-color: #fff; 
 }
+
