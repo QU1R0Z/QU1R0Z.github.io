@@ -7,12 +7,16 @@ body {
     line-height: 1.5;
     text-align: center;
 }
-
 body{
     background-image: url(./410AFKA.png);
     background-size: cover;
 }
 
+.imgenes{
+    width: 150px;
+    height: 150px;
+    margin:  15px;
+}
 
 h1, h2{
     color: #000000; 
@@ -50,13 +54,12 @@ h1, h2{
 
 
 .contenido-simple {
-    text-aling: center;
+    width: 800px; 
+    margin: 0 auto;
+    text-align: left;
 }
 
 
 .usos-clave {
     background-color: #fff; 
-
 }
-
-
